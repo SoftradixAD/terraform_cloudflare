@@ -9,7 +9,6 @@ terraform {
 }
 
 provider "cloudflare" {
-  #email   = "sahil.s@iapptechnologiesllp.com"
   api_token = "EhSS35Gf0i_1J3WBSCFDfPU16Y1YYRrSWr1D7sL9"
 }
 
